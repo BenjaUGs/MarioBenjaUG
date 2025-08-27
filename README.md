@@ -1,2 +1,1 @@
-*El trabajo está en la rama master
-*El menu fue hecho con ChatGPT
+El trabajo esta en la rama master y el menú fue realizado por chatGPT.
